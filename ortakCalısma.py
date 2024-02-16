@@ -1,6 +1,6 @@
 #1.Kullanıcının girdiği 5 basamaklı bir sayının basamaklarının toplamıyıno yazan bir döngü yazınız.
 sayi=int(input("Lütfen 5 basamaklı bir sayı giriniz."))
-toplam=042
+toplam=0
 
 while sayi !=0:
     toplam =(sayi%10) +toplam
@@ -56,3 +56,5 @@ toplamTutar = litreFyti*kacLtre
 print(toplamTutar)
 vergi=toplamTutar*0.66
 print(f'vergi {vergi}')
+
+#7
